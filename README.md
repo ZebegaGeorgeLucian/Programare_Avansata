@@ -9,7 +9,7 @@ Lab1 - bonus (only the matrix) printing for n=6
 1 0 1 0 1 0 
 1 0 0 1 0 1 
 1 1 0 0 1 0 
-
+/
 lab2 - compulsory printing 
 Client{type=PREMIUM, name='Florentin', startTime=12, endTime=16}
 Vehicle{vehicleId=1 belongs to the depot with the ID =1}
