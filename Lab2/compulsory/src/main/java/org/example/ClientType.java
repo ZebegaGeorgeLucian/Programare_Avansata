@@ -1,4 +1,4 @@
 package org.example;
-public enum clientType{
+public enum ClientType{
     REGULAR,PREMIUM
 }

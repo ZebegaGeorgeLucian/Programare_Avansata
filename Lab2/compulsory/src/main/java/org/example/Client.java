@@ -1,23 +1,23 @@
 package org.example;
 
 public class Client {
-    clientType type;
+    ClientType type;
     public String name;
     public int startTime;
     public int endTime;
 
-    public Client(String name , int startTime , int endTime , clientType type) {
+    public Client(String name , int startTime , int endTime , ClientType type) {
         this.name = name;
         this.startTime = startTime;
         this.endTime = endTime;
         this.type = type;
     }
 
-    public clientType getType() {
+    public ClientType getType() {
         return type;
     }
 
-    public void setType(clientType type) {
+    public void setType(ClientType type) {
         this.type = type;
     }
 
