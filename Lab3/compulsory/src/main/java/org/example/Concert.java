@@ -48,7 +48,7 @@ public class Concert implements Visitable, Payable{
     }
     @Override
     public String toString() {
-        return "Statue{" +
+        return "Concert{" +
                 "name='" + getName() + '\'' +
                 ", description='" + getDescription() + '\'' +
                 ", image='" + getImage() + '\'' +

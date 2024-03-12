@@ -25,7 +25,7 @@ public class Church {
 
     @Override
     public String toString() {
-        return "Statue{" +
+        return "Church{" +
                 "name='" + getName() + '\'' +
                 ", description='" + getDescription() + '\'' +
                 ", image='" + getImage() + '\''+
