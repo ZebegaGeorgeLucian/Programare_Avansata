@@ -1,25 +1,3 @@
-Lab1 - homework printing  
-
-1 10 13 19 23 28 31 32 44 49 68 70 79 82 86 91 94 97 100
-Running time of application is 301500 nano seconds
-
-Lab1 - bonus (only the matrix) printing for n=6 
-
-0 1 1 1 1 1 
-
-1 0 1 0 0 1 
-
-1 1 0 1 0 0 
-
-1 0 1 0 1 0 
-
-1 0 0 1 0 1 
-
-1 1 0 0 1 0 
-
-lab2 - compulsory printing 
-
-Client{type=PREMIUM, name='Florentin', startTime=12, endTime=16}
-Vehicle{vehicleId=1 belongs to the depot with the ID =1}
-Depot{depotId=1}
+Lab3 - compulsory printing
+Trip{periodOfTime='3 days', cityName='Paris', attractions=[Church{name='church1', description='description of curch1', image='image of church 1'}, Statue{name='statue1', description='description of statue1', image='image of statue1', openDays='Tuesday', openingHours='10-14'}, Church{name='church1', description='description of curch1', image='image of church 1'}, Concert{name='concert1', description='description of concert1', image='image of concert1', openDays='Monday', openingHours='20-22'entryFee= 50}]}
 
