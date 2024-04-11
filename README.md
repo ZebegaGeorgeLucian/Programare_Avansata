@@ -1,4 +1,4 @@
-LAB6 HOMEWORK --- DOAR PRIMELE 2 SUBPUNCTE (la subpunct 3 am creat cercuri in locurile posibile dar nu am reusit sa le colorez la click)
+LAB6 HOMEWORK --- DOAR PRIMELE 2 SUBPUNCTE (la subpunct 3 am creat cercuri in locurile posibile (capetele liniilor groase) dar nu am reusit sa le colorez la click)
 
 LAB7 COMPULSORY :
 
